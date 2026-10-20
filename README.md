@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Siti Khadijah binti Mohd Pariff
 
-<!--
-**khadijahpariff/khadijahpariff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UiTM interested in software engineering and AI.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Degree in Computer Science, UiTM
+- Currently learning: Special Topics in Computer Science
+- My FYP area: Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Python, Git, SQL
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: [your profile link]
+- Email: khadijahpariff@gmail.com
