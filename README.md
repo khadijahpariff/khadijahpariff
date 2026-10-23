@@ -11,7 +11,7 @@ Computer Science student at UiTM interested in software engineering and AI.
 Python, Git, SQL
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+- cat-breed-skin-ai-system: A web-based application using computer vision to predict cat breeds and provide preliminary skin health screening.
 
 ## Contact
 - LinkedIn: [your profile link]
