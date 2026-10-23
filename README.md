@@ -14,5 +14,4 @@ Python, Git, SQL
 - cat-breed-skin-ai-system: A web-based application using computer vision to predict cat breeds and provide preliminary skin health screening.
 
 ## Contact
-- LinkedIn: [your profile link]
 - Email: khadijahpariff@gmail.com
